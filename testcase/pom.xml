@@ -10,12 +10,4 @@
     <artifactId>arthas-testcase</artifactId>
     <name>arthas-testcase</name>
     <url>https://github.com/alibaba/arthas</url>
-
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>${junit.version}</version>
-        </dependency>
-    </dependencies>
 </project>
